@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 29, 2018
 
 ### Student Name:  
-(First and Last Name)
+Hunter Tondreau
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, a tax bracket calculating app was finished, by writing equations for the calculation of tax bracket and completing the function to clear the calculator.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hrt15b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Proper methods for calculating values in javascript.
+2. Methods with which elements of a javascript application can be cleared.
+3. Use of the replace tool in order to change values efficiently.
 
